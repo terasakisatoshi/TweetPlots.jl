@@ -24,6 +24,7 @@ docs/site/
 Manifest.toml
 
 # Ignore .env
-
 .env
+# Ignore png files
+*.png
 
